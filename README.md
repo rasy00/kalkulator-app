@@ -1,6 +1,33 @@
-# Getting Started with Create React App
+# Aplikasi Kalkulator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/rasy00/kalkulator-app/blob/master/LICENSE) [![Node Version](https://img.shields.io/badge/NodeJS-%3E%3D%2018.12.1-blue)](https://nodejs.org/download/release/v18.12.0/) [![React Version](https://img.shields.io/badge/ReactJS-%3E%3D%2018.2.0-blue)](https://reactjs.org/)
+
+Project ini dibuat dengan [React App](https://github.com/facebook/create-react-app).
+
+## Authors
+
+- Code : [@rasy00](https://www.github.com/rasy00) [@rasy.amhar\_](https://www.instagram.com/rasy.amhar_/)
+- Design : [@salmanwap](https://www.instagram.com/salmanwap/)
+
+## Usage/Examples
+
+- Clone this code
+
+  ```terminal
+  git clone https://github.com/rasy00/kalkulator-app
+  ```
+
+- Change to the code directory
+  ```terminal
+  cd <directory>/kalkulator-app
+  ```
+- Install pkg
+
+  ```terminal
+  npm install
+  ```
+
+- Run one of the scripts below
 
 ## Available Scripts
 
